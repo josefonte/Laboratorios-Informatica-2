@@ -4,4 +4,4 @@
 
 Com o objetivo de criar uma calculadora de stack, o trabalho foi desenvolvido em C no âmbito da cadeira de Laboratórios de Informática II.
 
-M.I. em Engenharia Informática | Universidade do Minho | 2ºSemestre | 1º Ano | Ano Letivo 20/21
+M.I. em Engenharia Informática | Universidade do Minho | 2º Semestre | 1º Ano | Ano Letivo 20/21
