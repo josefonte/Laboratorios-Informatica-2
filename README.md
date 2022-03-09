@@ -4,4 +4,4 @@
 
 No âmbito da cadeira de Laboratórios de Informática II, o trabalho foi desenvolvido em C com o objetivo de implementar um interpretador de uma liguaguem orientada à stack, chamada $0M.
 
-Universidade do Minho | M.I. em Engenharia Informática | 2º Semestre | 1º Ano | Ano Letivo 20/21
+Universidade do Minho | M.I. Engenharia Informática | 2º Semestre | 1º Ano | Ano Letivo 20/21
